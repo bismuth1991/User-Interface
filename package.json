@@ -1,0 +1,20 @@
+{
+  "name": "User-Interface",
+  "version": "1.0.0",
+  "description": "Being able to create a user interface from scratch based on a design file is considered a basic necessity for front end developers. We will be building a single page website using HTML and CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bismuth1991/User-Interface.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bismuth1991/User-Interface/issues"
+  },
+  "homepage": "https://github.com/bismuth1991/User-Interface#readme"
+}
